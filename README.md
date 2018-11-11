@@ -4,3 +4,4 @@
 - fswatch 1.9.1
 - rsync
 
+<https://hub.docker.com/r/danke/thrift/>
